@@ -2,5 +2,8 @@ This is a readme file for BCB546.
 I am practicing and taking notes. How is this
 by using the echo command with two >> signs we can append to the readme file
 Look at https://github.com/Cooktan/Git-Markdown-Exercise for infomation on how to push the markdown excercise from my local device
-Here is some code for the read me: mkdir adds a new file, mv allows you to move files, by being in the Git-Mark_down excercise and having an RSA hooked up to the HPC and the Github account I can Use git add --all to add the changes to my local repository, git commit -m to tfurther this, then git push to move to my local git hub
-I am Tanner
+Here is some code for the read me: mkdir adds a new file, mv allows you to move files,
+by being in the Git-Mark_down excercise and having an RSA hooked up to the HPC and the Github account I can Use git add
+--all to add the changes to my local repository,
+git commit -m to commit with a messages (Saves locally) this, 
+then git push to move to the original master repository. I am just a branch. You have to have permission to push it to the main one
